@@ -2,9 +2,9 @@
 module Lab_4_tb;
     logic [1:0] a;
     logic [1:0] b;
-    logic red;
-    logic green;
-    logic blue;
+    logic r;
+    logic g;
+    logic bl;
 
     Lab_4 uut (
         .a(a),
